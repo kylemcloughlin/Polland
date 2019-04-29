@@ -11,9 +11,20 @@ An interactive easy to use Decison making website built for LHL bootcamp midterm
 - Send to friends.
 - View Results!
 
+dependencies
+=============
+- express
+- node
+- pg 
+- knex
+- body-parser
+- session cookie
+- mail gun
+- Chart.js
+
 Project Setup
 =========================
 1. clone repository.
 2. install all dependency 
 3. create database 'my_db'
-4 run `node server.js`
+4. run `node server.js`
